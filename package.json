@@ -1,0 +1,27 @@
+{
+  "name": "atm_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abc.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AliHaider3820/ATM_Project.git"
+  },
+  "author": "Ali Haider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliHaider3820/ATM_Project/issues"
+  },
+  "homepage": "https://github.com/AliHaider3820/ATM_Project#readme",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.2"
+  }
+}
